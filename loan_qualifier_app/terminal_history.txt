@@ -1,0 +1,50 @@
+   19  git push --set-upstream origin master
+   20  git push
+   21  git status
+   22  cd loan_qualifier_app
+   23  python app.py
+   24  python app.py
+   25  cd
+   26  cd onedrive/desktop/fintech/1and2/starter_code
+   27  git status
+   28  git add loan_qualifier_app/app.py
+   29  git add loan_qualifier_app/qualifier/filters/__pycache__/
+   30  git add loan_qualifier_app/qualifier/utils/__pycache__/
+   31  git status
+   32  git commit -m "Added csv save function"
+   33  git push
+   34  git status
+   35  git push --set-upstream origin master
+   36  cd starter_code
+   37  cd 1and2
+   38  cd loan_qualifier_app
+   39  python app.py
+   40  python app.py
+   41  git status
+   42  git commit -m "Added user prompt to save csv and moved to utils folder"
+   43  git push
+   44  git status
+   45  git commit -a "added function for user prompt to save csv, moved to utils folder"
+   46  git commit -m "added function for user prompt to save csv, moved to utils folder"
+   47  git add qualifier/utils/__pycache__/fileio.cpython-39.pyc
+   48  git add qualifier/utils/fileio.py
+   49  git status
+   50  git commit -m "Added user prompt to save csv and moved to utils folder"
+   51  git push
+   52  git status
+   53  git add README.md
+   54  git status
+   55  git commit -m "Updated readme file"
+   56  git push
+   57  python app.py
+   58  cd loan_qualifer_app
+   59  python app.py
+   60  git status
+   61  git add app.py
+   62  git add qualifier/utils/__pycache__/fileio.cpython-39.pyc
+   63  git add qualifier/utils/fileio.py
+   64  gti status
+   65  git status
+   66  git commit -m "Updated comments"
+   67  git push
+   68  history 50 > terminal_history.txt
