@@ -118,7 +118,7 @@ def run():
         bank_data, credit_score, debt, income, loan_amount, home_value
     )
 
-    # Save qualifying loans
+    # Prompts user if they want to save qualifying loans to csv file
     save_qualifying_loans(qualifying_loans)
 
 
